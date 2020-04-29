@@ -1,0 +1,9 @@
+name: TempMute
+main: me.devleo.tempmute.Main
+version: 1.0
+author: L Devs
+website: youtube.com/c/LeoDeve
+
+commands:
+  tempmute:
+  unmute:
